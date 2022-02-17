@@ -152,3 +152,8 @@ rangee(places)
 quartil(places)
 scipyy(places)
 CoefficientVariation(places)
+
+
+
+
+print("Testing1")
